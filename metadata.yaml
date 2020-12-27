@@ -1,0 +1,32 @@
+_repo: Little-Paulina-Christmas-in-Russia_64103
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Robinson, Anna
+    gutenberg_agent_id: '52751'
+    url: http://www.gutenberg.org/2009/agents/52751
+creator:
+  author:
+    agent_name: Clarke, Mary Cowden
+    alias: Cowden Clarke, Mary
+    birthdate: 1809
+    deathdate: 1898
+    gutenberg_agent_id: '52750'
+    url: http://www.gutenberg.org/2009/agents/52750
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Cowden_Clarke
+description: ''
+gutenberg_issued: '2020-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64103'
+  lccn: 06034799
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+- GITenberg
+title: 'Little Paulina: Christmas in Russia'
+url: http://www.gutenberg.org/ebooks/64103
